@@ -1,0 +1,7 @@
+data/customers.csv
+data/tasks.csv
+app/methods/show_tasks.py
+app/methods/show_debt_by_id.py
+app/methods/register_task.py
+app/methods/modify_task.py
+app/methods/delete_task.py
